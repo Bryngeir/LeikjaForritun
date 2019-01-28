@@ -1,0 +1,2 @@
+# LeikjaForritun
+Verkefni í leikjaforritun
